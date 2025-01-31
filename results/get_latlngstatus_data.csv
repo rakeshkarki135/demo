@@ -1,0 +1,314 @@
+Addr,Walkscore,Walkscore_description,Snapped_lat,Snapped_lon,Transit_score,Transit_description,Transit_summary,Bike_score,Bike_description,Ml_num,Lat,Lng,LatLng_status
+"(lower) - 11 Sparkling Place, Brampton, ON L6R 2W9",,,,,,,,,,W11902466,43.7730045,-79.73753459999999,1
+"0 PINE GROVE Road, Greater Napanee, ON K0K 2L0",,,,,,,,,,X9412594,44.3381451,-77.0415933,1
+"1 - 256 Coleman Street, Belleville, ON K8P 3H7",,,,,,,,,,X11902369,44.1658073,-77.38772999999999,1
+"1 - 9621 Jane Street, Vaughan, ON L6A 4G5",,,,,,,,,,N9368821,43.8420472,-79.53465770000001,1
+"1 Birch Knoll Road, Georgina, ON L0E 1R0",,,,,,,,,,N11899912,44.3168045,-79.3487502,1
+"1 Tuscany Court, St. Catharines, ON L2S 0E2",,,,,,,,,,X11893710,43.1664699,-79.27145999999999,1
+"100 - 4145 North Service Road, Burlington, ON L7L 6A3",,,,,,,,,,W9271557,43.37175,-79.7838477,1
+"1001 - 50 Thomas Riley Road, Toronto, ON M9B 0C5",,,,,,,,,,W11902500,43.6338293,-79.5415921,1
+"1001 - 501 Adelaide Street, Toronto, ON M5V 0R3",100,Walker's Paradise,43.6455,-79.401,100,Rider's Paradise,"17 nearby routes: 7 bus, 10 rail, 0 other",99,Biker's Paradise,C9768299,43.64546379999999,-79.40130189999999,1
+"1002 - 128 Pears Avenue, Toronto, ON M5R 1T2",,,,,,,,,,C11899052,43.675611,-79.3978528,1
+"1002 - 1328 Birchmount Road, Toronto, ON M1W 3T8",,,,,,,,,,E11888355,43.74853170000001,-79.2862064,1
+"1005 - 325 Yorkland Boulevard, Toronto, ON M2J 0H8",,,,,,,,,,C11902390,43.7740046,-79.3328152,1
+"101 - 140 Allstate Parkway, Markham, ON L3R 5Y8",,,,,,,,,,N8142502,43.8553188,-79.3693241,1
+"101 Waterloo Street, Goderich, ON N7A 2W5",,,,,,,,,,X11881220,43.7465276,-81.715034,1
+"1019 Massie Drive, Prescott, ON K0E 1T0",,,,,,,,,,X11901840,44.7225071,-75.5181831,1
+"102 - 36 Birch Avenue, Toronto, ON M4V 0B5",97,Walker's Paradise,43.6815,-79.3935,86,Excellent Transit,"15 nearby routes: 12 bus, 3 rail, 0 other",81,Very Bikeable,C9418603,43.6812967,-79.3929771,1
+"102 Kendall Drive, Milton, ON L9T 0R5",68,Somewhat Walkable,43.5045,-79.8885,35,Some Transit,"7 nearby routes: 7 bus, 0 rail, 0 other",64,Bikeable,W11901123,43.5044924,-79.88880499999999,1
+"103 - 414 Blake Street, Barrie, ON L4M 5J7",,,,,,,,,,S10429297,44.3997834,-79.6520257,1
+"103 - 9 Tecumseth Street, Toronto, ON M5V 0S5",,,,,,,,,,C11890093,43.6410139,-79.4037653,1
+"10395 Weston Road, Vaughan, ON L4H 3T4",,,,,,,,,,N8473588,43.8553244,-79.56249509999999,1
+"105 - 1577 Rose Way, Milton, ON L9E 1N4",,,,,,,,,,W11893135,43.4898244,-79.83291,1
+"106 Brooke Avenue, Toronto, ON M5M 2K4",65,Somewhat Walkable,43.7355,-79.413,74,Excellent Transit,"21 nearby routes: 20 bus, 1 rail, 0 other",59,Bikeable,C10411869,43.7348751,-79.4131641,1
+"106/108 KATHLEEN Street, Guelph, ON N1H 4Y3",,,,,,,,,,X11891768,43.5495552,-80.2644669,1
+"1060 DEPENCIER Drive, North Grenville, ON K0G 1J0",,,,,,,,,,X11825379,45.0219373,-75.6594562,1
+"108 - 4145 North Service Road, Burlington, ON L7L 6A3",,,,,,,,,,W9271586,43.371772,-79.783878,1
+"108 Rectory Street, London, ON N5Z 2A1",,,,,,,,,,X9704521,42.9813707,-81.22023949999999,1
+"11 Dryden Lane, Hamilton, ON L8H 1L9",,,,,,,,,,X11902439,43.2344097,-79.7869853,1
+"111 - 135 Canon Jackson Drive, Toronto, ON M6M 0C3",,,,,,,,,,W10427995,43.6971853,-79.473948,1
+"115 Aldersgate Drive, Belleville, ON K8P 0C6",17,Car-Dependent,44.1525,-77.4165,,,,43,Somewhat Bikeable,X9243214,44.153208,-77.4169576,1
+"118 Lorne Thomas Place, New Tecumseth, ON L9R 0V8",,,,,,,,,,N9391765,44.1669793,-79.79414349999999,1
+"119 Benadir Avenue, Caledon, ON L7C 4E7",,,,,,,,,,W9366081,43.75553,-79.81611,1
+"120 HASTINGS PARK Drive, Belleville, ON K8P 0J4",,,,,,,,,,X9033770,44.1531172,-77.4186787,1
+"120 Royal Valley Drive, Caledon, ON L7C 1A5",,,,,,,,,,W9770204,43.7486924,-79.8297966,1
+"1207 - 381 Front Street, Toronto, ON M5V 3R8",,,,,,,,,,C11900693,43.6428078,-79.39266180000001,1
+"121 - 600 Alex Gardner Circle, Aurora, ON L4G 3G5",,,,,,,,,,N11902438,44.00022,-79.46799999999999,1
+"1212 BRUCE ROAD 40, Arran-Elderslie, ON N0H 1L0",,,,,,,,,,X10846700,44.37529,-81.24244,1
+"1259 - 313 Richmond Street, Toronto, ON M5A 4S7",,,,,,,,,,C11902400,43.65337,-79.3684816,1
+"128 Laurel Avenue, Toronto, ON M9B 4T6",,,,,,,,,,W11911189,43.6457695,-79.55522169999999,1
+"13 - 1255 Bridletowne Circle, Toronto, ON M1W 0A5",,,,,,,,,,E11902401,43.7940587,-79.31162690000001,1
+"13 James Ratcliff Avenue, Whitchurch-Stouffville, ON L4A 1P2",,,,,,,,,,N9379941,43.965068,-79.2416483,1
+"1307 - 32 Davenport Road, Toronto, ON M5R 0B5",,,,,,,,,,C10442662,43.67327179999999,-79.3898897,1
+"1309 - 36 Forest Manor, Toronto, ON M2J 1M5",,,,,,,,,,C11902279,43.771875,-79.3446824,1
+"131 Credit Lane, Richmond Hill, ON L4E 1G9",,,,,,,,,,N9512016,43.9131986,-79.4268175,1
+"135 Laird Drive, Markham, ON L3S 3N7",,,,,,,,,,N9295630,43.8374072,-79.2568783,1
+"136 Lebovic Campus Drive, Vaughan, ON L6A 4M1",,,,,,,,,,N11911202,43.8535857,-79.4685708,1
+"139 Robin Trail, Scugog, ON L9L 1B3",,,,,,,,,,E11900745,44.08739629999999,-78.9460472,1
+"1409 - 65 Speers Road, Oakville, ON L6K 3V5",,,,,,,,,,W10929760,43.4477362,-79.6875677,1
+"1412 - 3380 Eglinton Avenue, Toronto, ON M1J 3L6",,,,,,,,,,E11901041,43.7447665,-79.21458439999999,1
+"1428 Rebecca Street, Oakville, ON L6L 1Z5",,,,,,,,,,W11902443,43.4132708,-79.7029649,1
+"143 Terry Fox Drive, Barrie, ON L9L 0L9",,,,,,,,,,S10416640,44.3608427,-79.6001509,1
+"1434 Davis Lp, Innisfil, ON L0L 1W0",,,,,,,,,,N11901884,44.259599,-79.5533308,1
+"1448 RICKARDS Road, South Frontenac, ON K0H 2L0",,,,,,,,,,X11902403,44.4218971,-76.50560759999999,1
+"1466 BASELINE Road, MeadowlandsCrestviewandArea, ON K2C 0B2",,,,,,,,,,X11898777,45.3606586,-75.7409045,1
+"154 Main Street, Shelburne, ON L0N 1S3",,,,,,,,,,X9507869,44.0781017,-80.206902,1
+"1540 Thetford Court, Mississauga, ON L5J 3N6",63,Somewhat Walkable,43.521,-79.6455,50,Good Transit,"13 nearby routes: 12 bus, 1 rail, 0 other",52,Bikeable,W11888607,43.52071429999999,-79.64549679999999,1
+"1555 Gill Road, Springwater, ON L0L 1X0",,,,,,,,,,S11888808,44.486083,-79.75489499999999,1
+"1578 Dundas Street, Toronto, ON M4L 1K8",,,,,,,,,,E9769687,43.6673642,-79.3298899,1
+"16 Hollingsworth Circle, Brampton, ON L7A 0J7",,,,,,,,,,W11910512,43.694715,-79.8392583,1
+"16 Quillberry Close, Brampton, ON L7A 4N8",,,,,,,,,,W10893792,43.6983457,-79.8457239,1
+"16 Walnut Drive, Wasaga Beach, ON L9Z 0A9",,,,,,,,,,S11902095,44.459443,-80.041901,1
+"1602 - 55 Ontario Street, Toronto, ON M5A 0T8",,,,,,,,,,C11902354,43.653598,-79.3662319,1
+"163 Atkinson Boulevard, London, ON N5W 4Z3",,,,,,,,,,X11262856,42.9911779,-81.17703430000002,1
+"166 JAMES Street, Brockville, ON K6V 1L3",,,,,,,,,,X9520334,44.5966141,-75.67851019999999,1
+"17 - 5000 Connor Drive, Lincoln, ON L3J 0T4",,,,,,,,,,X11902372,43.1556428,-79.48029009999999,1
+"17 CLEARVIEW Heights, St. Catharines, ON L2T 2W2",,,,,,,,,,X11885012,43.12868659999999,-79.2178208,1
+"17 Main Street, New Tecumseth, ON L0G 1A0",,,,,,,,,,N11884403,44.0787762,-79.7848667,1
+"170 E - 1610 Charles Street, Whitby, ON L1N 0P5",,,,,,,,,,E11902413,43.8606078,-78.936709,1
+"1707N - 117 Broadway Avenue, Toronto, ON M4P 0A5",,,,,,,,,,C11902447,43.71035699999999,-79.3925946,1
+"18 - 1755 Rathburn Road, Mississauga, ON L4W 2M8",,,,,,,,,,W9507176,43.634,-79.60086,1
+"1802 - 15 Fort York Boulevard, Toronto, ON M5V 3Y4",96,Walker's Paradise,43.6395,-79.3935,98,Rider's Paradise,"41 nearby routes: 16 bus, 25 rail, 0 other",94,Biker's Paradise,C9296317,43.6398873,-79.3938891,1
+"184 - 3033 Townline Road, Fort Erie, ON L0S 1S1",,,,,,,,,,X9371489,42.96275929999999,-79.0356659,1
+"1855 Stevenson Road, Oshawa, ON L1H 7K4",,,,,,,,,,E5784789,43.94352,-78.9021099,1
+"1923 Emerald Court, Innisfil, ON L9S 2A4",,,,,,,,,,N11902506,44.3028191,-79.5648251,1
+"193 Vantage Street, Newmarket, ON L3X 3B1",,,,,,,,,,N11902442,44.0586513,-79.4939401,1
+"199 Alessio Drive, Hamilton, ON L8B 0K4",,,,,,,,,,X11902379,43.2083853,-79.90516610000002,1
+"2 - 1842 LAKESHORE Road, Mississauga, ON L5J 1J7",,,,,,,,,,W11902423,43.5150605,-79.6249161,1
+"2 - 93 Peel Street, Barrie, ON L4M 3L5",,,,,,,,,,S11901758,44.3972948,-79.68963,1
+"201 - 2343 Khalsa Gate, Oakville, ON L6M 5R6",,,,,,,,,,W10420213,43.4315326,-79.770315,1
+"20161 Bathurst Street, East Gwillimbury, ON L9N 1N3",3,Car-Dependent,44.115,-79.5225,,,,26,Somewhat Bikeable,N9769675,44.1145573,-79.5220829,1
+"203 - 22 Lombard Street, Toronto, ON M5C 1M1",,,,,,,,,,C11902386,43.6515813,-79.37671979999999,1
+"204 - 11 St Joseph Street, Toronto, ON M4Y 3G4",,,,,,,,,,C11902391,43.6657429,-79.3861318,1
+"205 - 1420 Burnhamthorpe Road, Mississauga, ON L4X 2Z9",,,,,,,,,,W8132274,43.6229171,-79.6013449,1
+"205 - 17 Cleave Avenue, Prince Edward County, ON K0K 2T0",63,Somewhat Walkable,44.0115,-77.133,,,,49,Somewhat Bikeable,X9253805,44.0120776,-77.1324865,1
+"205 - 2788 Bathurst Street, Toronto, ON M6B 3A3",,,,,,,,,,C11901868,43.7119539,-79.42831439999999,1
+"207 Alessio Drive, Hamilton, ON L9B 0K4",,,,,,,,,,X11902405,43.2083853,-79.90516610000002,1
+"209860 Highway 26, Blue Mountains, ON L9Y 0L1",,,,,,,,,,X11888443,44.5230253,-80.29740129999999,1
+"216 - 2788 Bathurst Street, Toronto, ON M6B 3A3",,,,,,,,,,C11901119,43.7119539,-79.42831439999999,1
+"216 Woodbine Avenue, Kitchener, ON N2R 1Y5",,,,,,,,,,X11902507,43.3895571,-80.4857794,1
+"217 - 2788 Bathurst Street, Toronto, ON M6B 3A3",,,,,,,,,,C11901328,43.7119539,-79.42831439999999,1
+"218 - 120 Fairway Court, Blue Mountains, ON L9Y 0P8",,,,,,,,,,X10218239,44.50755040000001,-80.30849119999999,1
+"218 CALVINGTON Avenue, Kanata, ON K2T 0P8",,,,,,,,,,X10418936,45.3051522,-75.9331749,1
+"2180 Highpoint SideRoad, Caledon, ON L7K 0H9",,,,,,,,,,W9368479,43.8833271,-80.0678564,1
+"219 Charles Street, Belleville, ON K8N 3M3",,,,,,,,,,X11897848,44.1667481,-77.3750031,1
+"22 Mill Street, East Luther Grand Valley, ON L9W 5V8",,,,,,,,,,X9813794,43.8979831,-80.31396149999999,1
+"220 - 8 Tippett Road, Toronto, ON M3H 2V1",,,,,,,,,,C11901103,43.7324138,-79.4468862,1
+"22164 Dundonald Road, Southwest Middlesex, ON N0L 1M0",,,,,,,,,,X11889671,42.7281463,-81.6825923,1
+"224 - 556 Marlee Avenue, Toronto, ON M6B 0B1",,,,,,,,,,W11902363,43.70876190000001,-79.4438682,1
+"226 - 15 Coneflower Crescent, Toronto, ON M2R 0A5",56,Somewhat Walkable,43.779,-79.4505,66,Good Transit,"14 nearby routes: 14 bus, 0 rail, 0 other",72,Very Bikeable,C11902361,43.7785929,-79.45102729999999,1
+"226 - 2788 Bathurst Street, Toronto, ON M6B 3A3",,,,,,,,,,C11902101,43.7119539,-79.42831439999999,1
+"228 - 370 Highway 7, Richmond Hill, ON L4B 0C4",87,Very Walkable,43.842,-79.3965,48,Some Transit,"15 nearby routes: 15 bus, 0 rail, 0 other",63,Bikeable,N11821920,43.8419084,-79.3960034,1
+"22A Broadview Avenue, Mississauga, ON L5H 2S9",,,,,,,,,,W11902513,43.54226999999999,-79.59777389999999,1
+23 TILLSON Avenue Tillsonburg Oxford N4G 2Z7 ON,,,,,,,,,,X10744905,42.8614891,-80.7226761,1
+"2308 - 4065 Brickstone Mews, Mississauga, ON L5B 0G3",,,,,,,,,,W10425828,43.58591,-79.6472,1
+"2406 - 3390 WESTON Road, Toronto, ON M9M 2X3",83,Very Walkable,43.749,-79.542,69,Good Transit,"7 nearby routes: 7 bus, 0 rail, 0 other",49,Somewhat Bikeable,W9348212,43.74923649999999,-79.54266419999999,1
+"25 Boustead Avenue, Toronto, ON M6R 1Y7",,,,,,,,,,W9374674,43.653122,-79.4527635,1
+"25 Waterview Road, Wasaga Beach, ON L9Z 0E9",,,,,,,,,,S9294465,44.47601040000001,-80.13565170000001,1
+"2608 Hibiscus Drive, Pickering, ON L1X 0L8",0,Car-Dependent,43.875,-79.1145,27,Some Transit,"2 nearby routes: 2 bus, 0 rail, 0 other",17,Somewhat Bikeable,E9398423,43.8752799,-79.11489,1
+"2610 - 251 Jarvis Street, Toronto, ON M5B 0C3",,,,,,,,,,C10403186,43.65737670000001,-79.3744501,1
+"2612 Hibiscus Drive, Pickering, ON L1X 0L8",0,Car-Dependent,43.875,-79.1145,27,Some Transit,"2 nearby routes: 2 bus, 0 rail, 0 other",17,Somewhat Bikeable,E9398458,43.87541,-79.11493999999999,1
+"2693-97 Eglinton Avenue, Toronto, ON M1K 2S2",,,,,,,,,,E5979355,43.7071544,-79.39508029999999,1
+"27 Melborne Court, Whitby, ON L1R 1S2",,,,,,,,,,E11902397,43.9021014,-78.9404145,1
+"27 Sea Drifter Crescent, Brampton, ON L6P 4A9",,,,,,,,,,W11890912,43.7706388,-79.6638385,1
+"2701 - 35 Kingsbridge Garden Circle, Mississauga, ON L5R 3Z5",,,,,,,,,,W11901830,43.60484,-79.6514,1
+"2703 - 281 Mutual Street, Toronto, ON M4Y 3C4",,,,,,,,,,C11901851,43.6631533,-79.3778564,1
+"2708 - 4978 Yonge Street, Toronto, ON M2N 7G8",,,,,,,,,,C11902394,43.7657323,-79.4125607,1
+"272B Boon Avenue, Toronto, ON M6E 3Z9",,,,,,,,,,W9385318,43.68436,-79.44938,1
+"273 Conover Avenue, Aurora, ON L4G 7X2",78,Very Walkable,44.0175,-79.443,31,Some Transit,"7 nearby routes: 7 bus, 0 rail, 0 other",68,Bikeable,N11822266,44.0178751,-79.4436743,1
+"28 Coldbrook Drive, Cavan Monaghan, ON L0A 1G0",,,,,,,,,,X9285124,44.1578764,-78.446862,1
+"28 Mulgrave Street, Brampton, ON L6P 3H2",30,Car-Dependent,43.7895,-79.6785,41,Some Transit,"6 nearby routes: 6 bus, 0 rail, 0 other",39,Somewhat Bikeable,W11882465,43.7893014,-79.6784984,1
+"28 Paradise Way, Whitby, ON L1R 0R7",,,,,,,,,,E9510869,43.91148,-78.92421,1
+"2803 - 7 Grenville Street, Toronto, ON M4Y 0E9",,,,,,,,,,C11911195,43.6619464,-79.3838174,1
+"2804 - 32 Davenport Road, Toronto, ON M5R 0B5",,,,,,,,,,C11888187,43.67327179999999,-79.3898897,1
+"2810 - 225 Sumach Street, Toronto, ON M5A 0P8",,,,,,,,,,C10406596,43.6611009,-79.3604498,1
+"2845 HANK RIVERS Drive, BlossomParkAirportandArea, ON K1T 4A2",,,,,,,,,,X10418748,45.3537804,-75.6367027,1
+"289 Simcoe Street, Peterborough, ON K9H 2J4",94,Walker's Paradise,44.304,-78.3255,,,,98,Biker's Paradise,X9387899,44.3042107,-78.3260128,1
+"2905 - 4130 Parkside Village Drive, Mississauga, ON L5B 3M8",,,,,,,,,,W11902410,43.58762,-79.65026999999999,1
+"2910 - 4080 Living Arts Drive, Mississauga, ON L5B 4N3",,,,,,,,,,W10707798,43.5876499,-79.64567,1
+"2982 earl Street, Innisfil, ON L9S 3E3",,,,,,,,,,N9350359,44.3530922,-79.55125799999999,1
+"2B - 3495 Lawrence Avenue, Toronto, ON M1H 1B3",,,,,,,,,,E8473572,43.7580489,-79.2287812,1
+"3 - 6965 RALEIGH Boulevard, London, ON N6P 1W5",,,,,,,,,,X9385458,42.9326999,-81.31559999999999,1
+"3 Waterview Lane, Blue Mountains, ON N0H 2P0",,,,,,,,,,X10421186,44.5682124,-80.4633118,1
+"30 Sandy Ridge Court, Whitchurch-Stouffville, ON L4A 2L4",,,,,,,,,,N11902324,44.0384117,-79.3421834,1
+"300-400 - 140 Allstate Parkway, Markham, ON L3R 5Y8",,,,,,,,,,N5302496,43.8553188,-79.3693241,1
+"303 - 140 Allstate Parkway, Markham, ON L3R 5Y8",,,,,,,,,,N6654278,43.8553188,-79.3693241,1
+"305 - 17 Cleave Avenue, Prince Edward County, ON K0K 2T0",63,Somewhat Walkable,44.0115,-77.133,,,,49,Somewhat Bikeable,X9253853,44.0120776,-77.1324865,1
+"3051 YEARLEY Road, Huntsville, ON P0A 1R0",,,,,,,,,,X10437803,45.3934493,-79.44968469999999,1
+"307 - 1 Quail Crescent, Barrie, ON L4N 6W9",,,,,,,,,,S9510739,44.3551562,-79.7002938,1
+"307 - 17 Cleave Avenue, Prince Edward County, ON K0K 2T0",63,Somewhat Walkable,44.0115,-77.133,,,,49,Somewhat Bikeable,X9253873,44.0120776,-77.1324865,1
+"307 - 2788 Bathurst Street, Toronto, ON M6B 3A3",,,,,,,,,,C11902125,43.7119539,-79.42831439999999,1
+"310 - 2391 Central Park Drive, Oakville, ON L6H 0E4",,,,,,,,,,W9734323,43.4802959,-79.7199347,1
+"311 - 5795 Yonge Street, Toronto, ON M2M 4J3",,,,,,,,,,C11902342,43.7844401,-79.4151208,1
+"3112 ARTHUR Street, Howick, ON N0G 1V0",,,,,,,,,,X10424722,43.86638,-81.0328399,1
+"312 - 10 Halliford Place, Brampton, ON L6P 0N5",29,Car-Dependent,43.7565,-79.689,54,Good Transit,"8 nearby routes: 8 bus, 0 rail, 0 other",42,Somewhat Bikeable,W11886066,43.7568414,-79.6883774,1
+"313 - 2788 Bathurst Street, Toronto, ON M6B 3A3",,,,,,,,,,C11900925,43.7119539,-79.42831439999999,1
+"315 - 250 LAWRENCE Avenue, Toronto, ON M5M 1B2",84,Very Walkable,43.7235,-79.413,76,Excellent Transit,"12 nearby routes: 11 bus, 1 rail, 0 other",65,Bikeable,C10440749,43.7230148,-79.4137126,1
+"316 - 8 Nahani Way, Mississauga, ON L4Z 0C6",,,,,,,,,,W10425044,43.60946130000001,-79.6558903,1
+"317 - 430 Essa Drive, Barrie, ON L4N 9C6",,,,,,,,,,S11902487,44.346304,-79.7040509,1
+"3177 Blazing Star Avenue, Pickering, ON L1Y 0B3",,,,,,,,,,E11899377,43.9030439,-79.0874055,1
+"319 - 62 Forest Manor Road, Toronto, ON M2J 0B6",,,,,,,,,,C11911179,43.7738988,-79.34541159999999,1
+"32 South Street, Orillia, ON L3V 3S9",,,,,,,,,,S9513970,44.6177776,-79.43191879999999,1
+"321 - 2788 Bathurst Street, Toronto, ON M6B 3A3",,,,,,,,,,C11902249,43.7119539,-79.42831439999999,1
+"3215 - 21 Iceboat Terrace, Toronto, ON M5V 4A9",,,,,,,,,,C11892195,43.64049809999999,-79.3974313,1
+"33 Bluebird Lane, Barrie, ON L9J 0M3",,,,,,,,,,S11902427,44.3554517,-79.63545669999999,1
+"3306 - 1000 Portage Parkway, Vaughan, ON L4K 0L1",,,,,,,,,,N10424027,43.7979945,-79.5267575,1
+"331 - 556 Marlee Avenue, Toronto, ON M6B 3J3",,,,,,,,,,W11902404,43.70876190000001,-79.4438682,1
+"331 Okanagan Path, Oshawa, ON L1H 6T9",,,,,,,,,,E11902515,43.8957887,-78.8321469,1
+"3459 Jorie Crescent, Mississauga, ON L5M 7G6",,,,,,,,,,W11900437,43.5543814,-79.74728689999999,1
+"349 Bloomfield Main Street, Prince Edward County, ON K0K 1G0",,,,,,,,,,X11897851,43.9856813,-77.2319698,1
+"35 Stewart Place, Peterborough, ON K9J 3L8",,,,,,,,,,X11901802,44.2939734,-78.32499179999999,1
+"35E Spruce Street, Toronto, ON M5A 2H8",,,,,,,,,,C11901908,43.6638435,-79.3646929,1
+"3664 6th Concession Road, Clearview, ON L0M 3G0",,,,,,,,,,S11902425,44.3792957,-80.0534923,1
+"37 - 2295 Rochester Circle, Oakville, ON L6M 5C9",,,,,,,,,,W11902446,43.42696309999999,-79.7660425,1
+"3702 - 20 Shore Breeze Drive, Toronto, ON M8V 0C7",,,,,,,,,,W11894102,43.6235424,-79.4788445,1
+"3708 - 45 Charles Street, Toronto, ON M4Y 0B8",,,,,,,,,,C10415169,43.6689111,-79.383977,1
+"38 - 688 Warden Avenue, Toronto, ON M1L 4W4",,,,,,,,,,E11902441,43.7144857,-79.28238590000001,1
+"389 Etheridge Avenue, Milton, ON L9E 0B2",,,,,,,,,,W11901445,43.4858299,-79.8419131,1
+"39 Laurie Crescent, Barrie, ON L4M 6C7",,,,,,,,,,S10416626,44.4041459,-79.68446449999999,1
+"39A Poyntz Street, Penetanguishene, ON L9M 1N5",,,,,,,,,,S10929695,44.7659499,-79.937406,1
+"4 - 399 Springbank Avenue, Woodstock, ON N4T 1P9",,,,,,,,,,X11902451,43.1474274,-80.73653019999999,1
+"4 - 47 Madonna Drive, Hamilton, ON L9B 0H2",21,Car-Dependent,43.203,-79.917,39,Some Transit,"3 nearby routes: 3 bus, 0 rail, 0 other",33,Somewhat Bikeable,X11896104,43.203131,-79.917704,1
+"4 Eastgate Crescent, Toronto, ON M1L 1W9",,,,,,,,,,E11891686,43.7114083,-79.2907527,1
+"4 SUTTON Lane, Collingwood, ON L9Y 5B4",,,,,,,,,,S10440353,44.5060012,-80.2411901,1
+"4 Sturgeon Glen Road, Kawartha Lakes, ON K0M 1N0",,,,,,,,,,X9513717,44.5239319,-78.7252772,1
+"400 - 140 Allstate Parkway, Markham, ON L3R 5Y8",,,,,,,,,,N5302477,43.8553188,-79.3693241,1
+"402 - 15 Sewells Road, Toronto, ON M1B 3J7",85,Very Walkable,43.8075,-79.2165,69,Good Transit,"12 nearby routes: 12 bus, 0 rail, 0 other",32,Somewhat Bikeable,E9511358,43.8067506,-79.2171378,1
+"402 - 25 Richmond Street, Toronto, ON M5C 0A6",100,Walker's Paradise,43.6515,-79.377,100,Rider's Paradise,"46 nearby routes: 20 bus, 26 rail, 0 other",93,Biker's Paradise,C11885030,43.6519017,-79.37721650000002,1
+"402 Upper Paradise Road, Hamilton, ON L9C 5E1",,,,,,,,,,X11545639,43.23342239999999,-79.9119238,1
+"404 - 17 Cleave Avenue, Prince Edward County, ON K0K 2T0",63,Somewhat Walkable,44.0115,-77.133,,,,49,Somewhat Bikeable,X9253892,44.0120776,-77.1324865,1
+"405 - 17 Cleave Avenue, Prince Edward County, ON K0K 2T0",63,Somewhat Walkable,44.0115,-77.133,,,,49,Somewhat Bikeable,X9253908,44.0120776,-77.1324865,1
+"41 Briarwood Road, Markham, ON L3R 2W7",,,,,,,,,,N10420581,43.8735829,-79.3361836,1
+"41 Dixington Crescent, Toronto, ON M9P 2K3",,,,,,,,,,W11911196,43.6975718,-79.5418456,1
+"413 - 201 Brock Street, Whitby, ON L1N 4K2",,,,,,,,,,E11905300,43.8786845,-78.9412588,1
+"42 Evanston Drive, Toronto, ON M3H 5P3",,,,,,,,,,C11100984,43.7645819,-79.4630655,1
+"42 Ottaway Avenue, Barrie, ON L4M 2W9",,,,,,,,,,S11898082,44.4039154,-79.6905319,1
+"4208 - 1 Palace Pier Court, Toronto, ON M8V 3W9",,,,,,,,,,W9311265,43.6316252,-79.47271789999999,1
+"4235 Hazineh Court, Mississauga, ON L5B 3N6",,,,,,,,,,W9510975,43.5864504,-79.6547105,1
+"424 - 170 Jozo Weider Boulevard, Blue Mountains, ON L9Y 0V2",,,,,,,,,,X11902412,44.5031852,-80.3114576,1
+"43 Black Walnut Drive, Markham, ON L3S 4B9",37,Car-Dependent,43.8645,-79.239,38,Some Transit,"13 nearby routes: 13 bus, 0 rail, 0 other",41,Somewhat Bikeable,N9263730,43.8639665,-79.239479,1
+"4308 - 1 Bloor Street, Toronto, ON M4W 1A9",,,,,,,,,,C9357695,43.6699145,-79.3870395,1
+"4361 Violet Road, Mississauga, ON L5V 1J8",,,,,,,,,,W11902477,43.5776866,-79.6722905,1
+"44 - 954 Arlington Street, Saugeen Shores, ON N0H 2C4",,,,,,,,,,X11902344,44.44057000000001,-81.37879,1
+"45 Lakewood Crescent, Kawartha Lakes, ON K0M 1A0",,,,,,,,,,X11902370,44.5355499,-78.5274596,1
+"463 Holcan Avenue, Oshawa, ON L1G 5X5",,,,,,,,,,E11897932,43.9125918,-78.855442,1
+"47 Trillium Court, Kingston, ON K7K 6W9",,,,,,,,,,X11895839,44.2625691,-76.49427279999999,1
+"478 Melrose Avenue, Toronto, ON M5M 1Z9",,,,,,,,,,C11902462,43.7291246,-79.4244617,1
+"479 Windermere Avenue, Toronto, ON M6S 3L5",,,,,,,,,,W11902139,43.6511953,-79.48052609999999,1
+"48 - 3050 Constitution Boulevard, Mississauga, ON L4Y 3X7",,,,,,,,,,W9267442,43.6033898,-79.59275029999999,1
+"48 Christian Street, Russell, ON K0A 2N0",,,,,,,,,,X11902376,45.2166818,-76.1998849,1
+"49 Emerald Coast Trail, Brampton, ON L7A 5A7",,,,,,,,,,W11900561,43.6915969,-79.8621239,1
+"49 Norwood Avenue, Vaughan, ON L6A 3V6",,,,,,,,,,N11898075,43.8428989,-79.5329352,1
+"5 Cattail Crescent, Hamilton, ON L8B 1Z5",,,,,,,,,,X11911193,43.3406118,-79.8722659,1
+"5 Forsyth Crescent, Halton Hills, ON L7G 5Y3",,,,,,,,,,W11901267,43.6320947,-79.8971875,1
+"500 - 140 Allstate Parkway, Markham, ON L3R 5Y8",,,,,,,,,,N8333752,43.855301,-79.3692576,1
+"501 - 1 Climo Lane, Markham, ON L6E 0V8",,,,,,,,,,N11902373,43.8993896,-79.26674179999999,1
+"501 - 483 Faith Drive, Mississauga, ON L5R 0A1",,,,,,,,,,W10423357,43.605334,-79.67330299999999,1
+"505 - 17 Cleave Avenue, Prince Edward County, ON K0K 2T0",63,Somewhat Walkable,44.0115,-77.133,,,,49,Somewhat Bikeable,X9253921,44.0120776,-77.1324865,1
+"51 Rathburn Road, Toronto, ON M9A 1R3",,,,,,,,,,W11880649,43.6613224,-79.5351244,1
+"51 River Heights Drive, Brampton, ON L6P 2N5",,,,,,,,,,W9363604,43.7795153,-79.6776775,1
+"5102 Graham Lake Road, Elizabethtown-Kitley, ON K0E 1M0",,,,,,,,,,X9418752,44.5965036,-75.8510297,1
+"511 - 1000 Portage Parkway, Vaughan, ON L4K 0L1",55,Somewhat Walkable,43.7985,-79.527,74,Excellent Transit,"8 nearby routes: 7 bus, 1 rail, 0 other",61,Bikeable,N9514095,43.7979945,-79.5267575,1
+"511 - 560 RIDEAU Street, LowerTownSandyHill, ON K1N 0G3",,,,,,,,,,X9521977,45.4322179,-75.6769284,1
+"511 - 92 Church Street, Ajax, ON L1S 6B4",,,,,,,,,,E11899587,43.850493,-79.0552864,1
+"516 - 50 Kaitting Trail, Oakville, ON L6M 4L9",,,,,,,,,,W10428695,43.4785523,-79.73229769999999,1
+"52 Wilkinson Avenue, Cambridge, ON N1S 0C5",,,,,,,,,,X11902411,43.3697672,-80.3464053,1
+"520 Pioneer Road, Merrickville-Wolford, ON K0G 1N0",,,,,,,,,,X11889141,44.8538734,-75.753231,1
+"5206 - 138 Downes Street, Toronto, ON M5E 0E4",,,,,,,,,,C10416825,43.6446392,-79.3713451,1
+"525 Terrace Way, Oakville, ON L6M 1N5",,,,,,,,,,W10427058,43.4781606,-79.7610521,1
+"527 5TH Street, Owen Sound, ON N4K 1E2",,,,,,,,,,X10847423,44.5597192,-80.9358953,1
+"534 - 5055 Greenlane Road, West Lincoln, ON L3J 2J3",,,,,,,,,,X11897879,43.1811887,-79.48097469999999,1
+"5501 - 898 Portage Parkway, Vaughan, ON L4K 0J6",,,,,,,,,,N11902195,43.7977917,-79.5285644,1
+"57 Brent Stephens Way, Brampton, ON L7A 5B5",,,,,,,,,,W11900620,43.7099626,-79.8488141,1
+"57 Union Boulevard, Wasaga Beach, ON L9Z 0M2",,,,,,,,,,S10929453,44.4602711,-80.0352454,1
+"573 Burnett Avenue, Cambridge, ON N1T 1M6",,,,,,,,,,X9395680,43.39076619999999,-80.2859769,1
+"58 Burton Street, Hamilton, ON L8L 3P8",,,,,,,,,,X11902368,43.2641881,-79.84948899999999,1
+"6 Huntley Court, Brampton, ON L6Z 1X8",,,,,,,,,,W11900636,43.7205727,-79.80173429999999,1
+"6007 - 11 Wellesley Street, Toronto, ON M4Y 1E8",,,,,,,,,,C11902300,43.66459769999999,-79.3852242,1
+"606 - 1195 The Queensway, Toronto, ON M8Z 1R6",,,,,,,,,,W11902471,43.62163,-79.52248,1
+"61 Main Street, Uxbridge, ON L9P 1J4",87,Very Walkable,44.1075,-79.119,,,,38,Somewhat Bikeable,N9395347,44.1073356,-79.1192406,1
+"61 Townline Road, Clarington, ON L1E 2J3",,,,,,,,,,E10272675,43.9104719,-78.81452490000001,1
+"610 - 50 Brian Harrison Way, Toronto, ON M1P 5J4",,,,,,,,,,E11897405,43.773816,-79.258804,1
+"62 Raymond Road, Vaughan, ON L4L 2L1",,,,,,,,,,N11911200,43.7819171,-79.6096883,1
+"621 HALLOWAY Drive, Kingston, ON K7K 0H5",,,,,,,,,,X9412010,44.2712407,-76.45051339999999,1
+"6258 Main Street, Whitchurch-Stouffville, ON L4A 1E2",,,,,,,,,,N11900616,43.9715156,-79.2473395,1
+"629 MONARDIA Way, OrleansCumberlandandArea, ON K4A 1C8",,,,,,,,,,X11911197,45.4393357,-75.4918062,1
+"6366 Heathwoods Avenue, London, ON N6P 1H5",,,,,,,,,,X11890027,42.922915,-81.3013223,1
+"640 COBALT Street, Clarence-Rockland, ON K4K 0L8",,,,,,,,,,X10418705,45.53967,-75.2743062,1
+"648 CYGNUS Street, Barrhaven, ON K2J 7B2",,,,,,,,,,X11865520,45.2481379,-75.7562724,1
+"65 Camino Real Drive, Caledon, ON L7C 4L9",,,,,,,,,,W11901122,43.7299052,-79.844742,1
+"688 Rorke Avenue, Temiskaming Shores, ON P0J 1K0",,,,,,,,,,T11902189,47.454923,-79.6380458,1
+"69 Copperhill Heights, Barrie, ON L9J 0K6",,,,,,,,,,S11902167,44.3431958,-79.64100359999999,1
+"691 BRUCE ROAD 13, Saugeen 29, ON N0H 2C1",,,,,,,,,,X11898890,44.5528199,-81.32048999999999,1
+"7 - 107 Concession Street, Cambridge, ON N1R 2H2",,,,,,,,,,X10421899,43.35474689999999,-80.3063961,1
+7 DUGGAN Drive Brampton Peel L6Y 4K8 ON,,,,,,,,,,W10744443,43.6531191,-79.7524957,1
+"702 - 55 Ann O'reilly Road, Toronto, ON M2J 0E1",,,,,,,,,,C11902479,43.77358,-79.3295308,1
+"704 - 5 Hanna Avenue, Toronto, ON M6K 0B3",,,,,,,,,,C11822278,43.6372472,-79.41839940000001,1
+"7091 Mount Forest Lane, Niagara Falls, ON L2J 3Z3",,,,,,,,,,X9794570,43.1337968,-79.1154763,1
+"713 - 250 Webb Drive, Mississauga, ON L5B 3Z4",,,,,,,,,,W9372305,43.5872065,-79.63924399999999,1
+"76 Acacia Road, Pelham, ON L0S 1E1",,,,,,,,,,X11902409,43.03686640000001,-79.27574349999999,1
+"78 Ivey Lane, Otonabee-South Monaghan, ON K0L 2G0",,,,,,,,,,X11902380,44.1579248,-78.2254734,1
+"79 - 1061 Eagletrace Drive, London, ON N6G 0T3",,,,,,,,,,X11887544,43.02156,-81.31553,1
+"795 Freeport Street, London, ON N6G 0R5",,,,,,,,,,X11902465,43.0131641,-81.3241809,1
+"8 Garfield Crescent, Brampton, ON L6V 1V8",,,,,,,,,,W11902419,43.7002107,-79.76280059999999,1
+"8 Hamilton Court, Caledon, ON L7C 4B5",,,,,,,,,,W10417256,43.7621664,-79.83009009999999,1
+"8 Meadow Wood Crescent, Hamilton, ON L8J 3Z8",,,,,,,,,,X11900811,43.1980216,-79.8062491,1
+"8 Smart Street, Guelph, ON N1G 4K9",,,,,,,,,,X11902424,43.5181845,-80.2260515,1
+"80 Ridley Street, Prince Edward County, ON K8N 4Z1",,,,,,,,,,X10430780,44.1402578,-77.3881092,1
+"805 Griffin Trail, Smith-Ennismore-Lakefield, ON K9K 0J1",,,,,,,,,,X11896435,44.31579960000001,-78.3680533,1
+"807 - 20 Scrivener Square, Toronto, ON M4W 3X9",,,,,,,,,,C10707913,43.6811872,-79.3895521,1
+"809 - 195 McCaul Street, Toronto, ON M5T 1W6",,,,,,,,,,C9509481,43.6567194,-79.39214460000001,1
+"811 CLAPHAM Terrace, StittsvilleMunsterRichmond, ON K2S 2N8",,,,,,,,,,X9523103,45.2702912,-75.8969302,1
+"812 - 2628 McCowan Road, Toronto, ON M1S 5J8",,,,,,,,,,E11538529,43.80693369999999,-79.2667061,1
+"82 King Street, Milton, ON L9T 1J7",91,Walker's Paradise,43.509,-79.884,39,Some Transit,"9 nearby routes: 9 bus, 0 rail, 0 other",60,Bikeable,W9045496,43.5090644,-79.8842262,1
+"82 Knotty Pine Avenue, Cambridge, ON N3H 0E2",,,,,,,,,,X11902475,43.39589,-80.38069,1
+"823 - 4800 Highway 7, Vaughan, ON L4L 1H8",,,,,,,,,,N11902393,43.7829175,-79.58084029999999,1
+"829 Fowles Court, Milton, ON L9T 0Z6",,,,,,,,,,W10440996,43.4855831,-79.8713689,1
+"830 Cote Street, Clarence-Rockland, ON K4K 1J9",,,,,,,,,,X11434116,45.5474345,-75.2737013,1
+"84 WILTON Road, Guelph, ON N1E 7L7",,,,,,,,,,X11879761,43.5792922,-80.26637889999999,1
+"85 Yongehurst Road, Richmond Hill, ON L4C 3T3",,,,,,,,,,N11902229,43.8609799,-79.4426031,1
+"865 MARKWICK Crescent, OrleansCumberlandandArea, ON K4A 4M7",,,,,,,,,,X9523116,45.4654979,-75.4636632,1
+"8680 Poplar SideRoad, Clearview, ON L9Y 3Y9",,,,,,,,,,S11823801,44.4652106,-80.276765,1
+"873 Hyland Street, Whitby, ON L1N 6S1",,,,,,,,,,E9384086,43.8737209,-78.9276885,1
+"897 Farmstead Drive, Milton, ON L9T 8J5",40,Car-Dependent,43.4955,-79.8585,37,Some Transit,"11 nearby routes: 11 bus, 0 rail, 0 other",47,Somewhat Bikeable,W9510142,43.4949793,-79.8583172,1
+"901 - 5418 Yonge Street, Toronto, ON M2N 6X4",,,,,,,,,,C10404571,43.7755373,-79.41495350000001,1
+"908 - 2645 Kipling Avenue, Toronto, ON M9V 3S6",,,,,,,,,,W11902485,43.7474676,-79.58333859999999,1
+"909 - 4090 Living Arts Drive, Mississauga, ON L5B 4M8",,,,,,,,,,W11881770,43.58778,-79.64585,1
+"911 - 181 Dundas Street, Toronto, ON M5A 0N5",,,,,,,,,,C11455926,43.6570251,-79.374008,1
+"912 - 3050 Ellesmere Road, Toronto, ON M1E 5E6",,,,,,,,,,E10426268,43.7860551,-79.1977194,1
+"917 - 339 Rathburn Road, Mississauga, ON L5B 0C8",,,,,,,,,,W10427415,43.5901854,-79.65271039999999,1
+"92 - 23 Long Stan, Whitchurch-Stouffville, ON L4A 1P5",,,,,,,,,,N9768346,44.0471278,-79.2955832,1
+"92 Woodhaven Avenue, Aurora, ON L4G 3Y2",,,,,,,,,,N11902374,43.97544,-79.46991000000001,1
+"95 Kenesky Drive, Hamilton, ON L0R 2H7",,,,,,,,,,X11902450,43.33827,-79.8789,1
+"97 Cleta Drive, Toronto, ON M1K 3G8",,,,,,,,,,E10421015,43.7240843,-79.2625702,1
+"97 Titan Trail, Markham, ON L3S 3J5",,,,,,,,,,N11430419,43.8454685,-79.2399667,1
+"A - 1105 Stittsville Main Street, StittsvilleMunsterRichmond, ON K2S 0C6",,,,,,,,,,X11902388,45.2734246,-75.9295837,1
+"A - 308 Main Street, Erin, ON N0B 1T0",,,,,,,,,,X5538263,43.7811964,-80.0793382,1
+"A - 324 Spadina Avenue, Toronto, ON M5T 2E7",,,,,,,,,,C11902496,43.6536948,-79.3987491,1
+"A02002B - 3495 Lawrence Avenue, Toronto, ON M1H 1B3",,,,,,,,,,E8473564,43.7580489,-79.2287812,1
+"B - 155 Hanmer Street, Barrie, ON L4M 6W2",,,,,,,,,,S11902473,44.4206326,-79.7023431,1
+"B202 - 98 Cornell Park Avenue, Markham, ON L6B 1B6",52,Somewhat Walkable,43.89,-79.233,49,Some Transit,"22 nearby routes: 22 bus, 0 rail, 0 other",33,Somewhat Bikeable,N11881808,43.8894837,-79.2328218,1
+"B28655 Highway 12, Brock, ON L0K 1A0",,,,,,,,,,N9271438,44.4352806,-79.1272838,1
+"BSMT - 5271 Huntingfield Drive, Mississauga, ON L5R 2K5",,,,,,,,,,W11902377,43.6103874,-79.661898,1
+"BSMT - 75 Meltwater Crescent, Brampton, ON L6P 3W6",,,,,,,,,,W11902519,43.7960779,-79.67427909999999,1
+"Bed 2 - 92 Polonia Avenue, Brampton, ON L6Y 0K5",,,,,,,,,,W10427522,43.64564439999999,-79.76011799999999,1
+"Bsmt - 136 Prohill Street, Pickering, ON L1V 2G8",,,,,,,,,,E11902488,43.8222694,-79.1467837,1
+"Bsmt - 3778 Arbourview Terrace, Mississauga, ON L5M 7A8",,,,,,,,,,W10426662,43.5499666,-79.7457051,1
+"Bsmt - 60 Lofthouse Drive, Whitby, ON L1R 0P8",,,,,,,,,,E11902382,43.9121609,-78.9264444,1
+"D-17 - 1663 Nash Road, Clarington, ON L1E 1S8",,,,,,,,,,E9399329,43.9132086,-78.7866875,1
+"F101 - 275F Larch Street, Waterloo, ON N2L 0J3",,,,,,,,,,X11896565,43.4768542,-80.5323944,1
+"G28 - 1575 Lakeshore Road, Mississauga, ON L5J 1J4",,,,,,,,,,W11902367,43.5211951,-79.6206286,1
+"LPH06 - 105 Victoria Street, Toronto, ON M5C 3B4",,,,,,,,,,C11896405,43.6521328,-79.3777157,1
+"LPH6 - 105 Victoria Street, Toronto, ON M5C 3B4",,,,,,,,,,C11896393,43.6521328,-79.3777157,1
+"Lot 1 Delta Road, Severn, ON L0K 2B0",,,,,,,,,,S8453170,44.8362076,-79.4229985,1
+"Lot 2 Delta Road, Severn, ON L0K 2B0",,,,,,,,,,S8453244,44.8362076,-79.4229985,1
+"Lot 508 Dillon Avenue, Meaford, ON N4L 1E9",,,,,,,,,,X11900345,44.6000931,-80.5957036,1
+"Lower - 6 Twenty Seventh Street, Toronto, ON M8W 2X3",,,,,,,,,,W11902516,43.5915224,-79.52322269999999,1
+"Main Fl - 138 Booth Avenue, Toronto, ON M4M 2M4",,,,,,,,,,E11902415,43.6586275,-79.34308519999999,1
+"PCL 19333 Langmuir, Timmins, ON P0N 1C0",,,,,,,,,,T10408584,48.4002594,-81.1118163,1
+"PH5103 - 38 Widmer Street, Toronto, ON M5V 0P7",,,,,,,,,,C11901477,43.6481267,-79.391866,1
+"S704 - 8 Olympic Garden Drive, Toronto, ON M2M 0B9",,,,,,,,,,C10415127,43.785036,-79.4160022,1
+"TH103 - 145 Canon Jackson Drive, Toronto, ON M6M 0E1",,,,,,,,,,W11823195,43.6972011,-79.4744881,1
+"TH15 - 6 Pirandello Street, Toronto, ON M6K 3P4",,,,,,,,,,C11825143,43.6380837,-79.41390539999999,1
+"Th117 - 90 Stadium Road, Toronto, ON M5V 3W5",92,Walker's Paradise,43.635,-79.401,88,Excellent Transit,"16 nearby routes: 7 bus, 9 rail, 0 other",98,Biker's Paradise,C9246539,43.6350565,-79.4014216,1
+"Upper - 10 Lynwood Court, Brampton, ON L6V 2X4",,,,,,,,,,W11902459,43.7104748,-79.76102209999999,1
